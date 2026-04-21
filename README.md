@@ -1,92 +1,135 @@
-# Raiyan Noory Rady's Projects Repository
+# 👋 Hi, I'm Raiyan Noory Rady
 
-Welcome to my GitHub repository! Here you will find a collection of my professional and personal projects, including web development, WordPress themes and plugins, and other software development endeavors.
+📍 Sylhet, Bangladesh
+📱 +8801814117249
+📧 [raiyannooryrady@gmail.com](mailto:raiyannooryrady@gmail.com)
 
-## About Me
+🔗 [LinkedIn](https://www.linkedin.com/in/raiyan-noory-rady/) | [GitHub](https://github.com/RaiyanNooryRady) | [GitLab](https://gitlab.com/raiyannooryrady)
 
-I am Raiyan Noory Rady, a Computer Science and Engineering graduate from Rajshahi University of Engineering & Technology (RUET), with 2 years of experience as a Junior Software Engineer at LIILab. Based in Sylhet, Bangladesh, I am passionate about learning and adopting new technologies. My expertise lies in WordPress theme development, PHP, JavaScript, and a variety of other programming languages and technologies.
+---
 
-- **Location:** Sylhet, Bangladesh
-- **Email:** [raiyannooryrady@gmail.com](mailto:raiyannooryrady@gmail.com)
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/raiyannooryrady)
-- **GitHub:** [GitHub Profile](https://github.com/raiyannooryrady)
-- **GitLab:** [GitLab Profile](https://gitlab.com/raiyannooryrady)
+## 🚀 About Me
 
-## Skills
+Software Engineer with **3+ years of experience in WordPress development** and hands-on expertise in **Next.js, APIs, and modern web technologies**.
 
-- **Languages & Technologies:** WordPress, PHP, Elementor, HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, React Js, jQuery, C, C++, Python, Git, Jira, Trello, Slack, Figma, Linux Commands.
-- **Experience:** 2 years of professional WordPress theme development from scratch.
-- **Knowledge:** Object-oriented programming, debugging, and implementing updates.
+I build scalable, high-performance web applications and lead development workflows for international clients.
 
-## Experience
+---
 
-### LIILab — Junior Software Engineer
-**October 2020 - September 2022, Sylhet, Bangladesh**
+## 💼 Experience
 
-During my time at LIILab, I worked on various web development projects, honing my skills in WordPress and PHP. My key contributions include:
+### 🚀 DevSeller — Founder & WordPress Developer (Freelance)
 
-- **Hello BCS Blog:** Developed a blog website for BCS and other job exams using WordPress, Child Theme, and PHP.
-- **LIILab Official Website:** Created the official website of LIILab from scratch utilizing WordPress, PHP, Codestar Framework, Custom Fields, Custom Metaboxes, and Custom Widgets.
-- **BDBasics:** Developed an educational blog website with WordPress, Child Theme, and PHP.
-- **Loraku Blog:** Implemented updates, debugged code, and resolved issues using PHP and WordPress.
-- **TechCare E-commerce:** Designed and developed an e-commerce website for mobile accessories from scratch using Figma, WooCommerce, PHP, JavaScript, HTML, and CSS.
-- **Agency Portfolio Website:** Designed and developed a portfolio website for an agency using Figma, HTML, CSS, Bootstrap, and JavaScript.
+📅 Jan 2026 – Present | 🌍 Remote
 
-## Personal Projects
+* Founded and managing DevSeller, a remote team delivering international client projects
+* Leading client communication, development, and delivery
+* 🌐 [DevSeller Portfolio](https://devseller.com) *(WordPress, Elementor, ACF)*
+* 🐞 [Bettwanzenprofi](https://bettwanzenprofi.de/) *(WordPress, WPForms, PHP, JS)*
+* 🛒 [TileWalaBD](https://tilewalabd.com/) *(WordPress, Elementor, PHP, ACF)*
 
-### Top News
-- **Description:** Developed an online news blog website.
-- **Technologies:** MongoDB, Express Js, React Js, Node Js.
+---
 
-### Orbit Team Member Plugin
-- **Description:** Created a custom WordPress plugin.
-- **Technologies:** Custom Post Type, Custom Taxonomies, WordPress, PHP.
+### 💻 LIILab — Software Engineer (Frontend)
 
-### Jagoron Theme
-- **Description:** Developed a custom WordPress theme.
-- **Technologies:** PHP, WordPress.
+📅 Aug 2025 – Dec 2025 | 📍 Dhaka
 
-### BeHealthy Blog Theme
-- **Description:** Created a custom blog theme.
-- **Technologies:** Bootstrap, PHP, WordPress.
+* Developed **Tubeforces Platform**
+* Features: Boosting services, Stripe payments, SEO tools, keyword explorer, thumbnail tools
+* Tech: *Next.js, REST API, GraphQL*
+* 🌐 [Live Project](https://tubeforces.com/)
 
-### Online Easy Calculator
-- **Description:** Developed a simple online calculator.
-- **Technologies:** JavaScript, HTML, CSS.
+---
 
-## Research
+### 🌐 BluBird Interactive Ltd — Software Engineer (WordPress)
 
-- **Title:** "A Hybrid Approach for Imbalanced Data Classification by Combining Clustering with Instance Selection"
-- **Conference:** ICCIT 2023
-- **Published in:** IEEE Explore
+📅 Jun 2025 – Aug 2025 | 📍 Dhaka
 
-## Achievements
+* Improved security & code structure for **DeshiCommerce**
+* 🌐 [DeshiCommerce](https://deshicommerce.com/)
+* Fixed responsiveness issues for **Goldwynnbahamas**
+* 🌐 [Goldwynnbahamas](https://goldwynnbahamas.com/)
+* Built authentication system for **XPressEntry**
 
-- **RUET Gyanjam 2019:** 16th place (Team Name: RUET_Cyber71)
-- **VU CSE Tech Fest 2019 Programming Contest:** 17th place (Team Name: RUET_Pretests_Passed)
-- **RUET CodeSmash 2018:** 19th place
-- **RUET GyanJam 2018:** 28th place (Team Name: RUET_Backloggers)
+---
 
-## Competitive Programming
+### 🛒 bdCalling IT Ltd — WordPress Developer
 
-- **Codeforces:** Solved 1000+ problems and participated in 180+ contests (Username: I_Love_Muhammad_PBUH)
-- **HackerRank:** Solved 80+ problems (Username: Raiyan_1703059)
-- **LightOJ:** Solved 50+ problems (Username: raiyannooryr)
+📅 Jul 2024 – Jun 2025 | 📍 Dhaka
 
-## References
+* 🛍️ [Silverstone](https://silverstone.si/) *(WooCommerce, Elementor, Polylang)*
+* 🐜 [ABH-Schädlingsbekämpfung](https://abh-schaedlingsbekaempfung.de/) *(WordPress, ACF, PHP, JS)*
+* 🏕️ [Amesbrook](https://www.amesbrook.com/) *(WordPress, Elementor)*
 
-- **Mahit Kumar Paul**
-  - Assistant Professor, Department of Computer Science & Engineering, RUET
-  - Email: [mahit.cse@gmail.com](mailto:mahit.cse@gmail.com)
-  - Phone: +8801745804617
+**Custom Plugins Developed:**
 
-- **Muhammad Amran**
-  - Senior Software Developer, VALT, Sylhet, Bangladesh
-  - Email: [amran8258@gmail.com](mailto:amran8258@gmail.com)
-  - Phone: +8801303424012
+* PDF Management System
+* Photo Voting Contest System
+* Subscriber Discount Plugin
 
-Feel free to explore the repository and check out the projects. Contributions and feedback are welcome!
+---
 
-## License
+### 🧑‍💻 LIILab — Junior Software Engineer
 
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+📅 Oct 2020 – Sep 2022 | 📍 Sylhet
+
+* 🌐 [Technogor](https://technogor.netlify.app/) *(HTML, CSS, Bootstrap, JS)*
+* 🌐 [LIILab Portfolio](https://liilab-test-rady.netlify.app/)
+* 🛒 TechCare E-commerce (https://techcare-shop.netlify.app/)
+* 🎨 Agency Portfolio Website
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend:**
+HTML • CSS • Bootstrap • Tailwind • JavaScript • jQuery
+
+**Backend:**
+PHP • REST API • GraphQL
+
+**Frameworks & CMS:**
+Next.js • WordPress • WooCommerce • Elementor
+
+**Tools:**
+Git • Jira • Trello • Slack • Figma • Linux
+
+---
+
+## 📌 Personal Projects
+
+* 🧩 [Jagoron Theme](https://github.com/RaiyanNooryRady/jagoron)
+* 🧩 [BeHealthy Blog Theme](https://github.com/RaiyanNooryRady/BeHealthyBlog)
+* 🧮 [Easy Calculator App](https://online-easy-calculator.netlify.app/)
+
+---
+
+## 🏆 Achievements
+
+* 📄 IEEE Publication (ICCIT 2023)
+* 🧠 1000+ problems solved | 180+ contests
+* 🏅 Competitive Programming Rankings (RUET, VU Tech Fest)
+
+---
+
+## 🎓 Education
+
+🎓 **BSc in Computer Science & Engineering**
+Rajshahi University of Engineering & Technology (RUET)
+2018 – 2024
+
+---
+
+## 📫 References
+
+**Mahit Kumar Paul**
+Assistant Professor, CSE, RUET
+📧 [mahit.cse@gmail.com](mailto:mahit.cse@gmail.com)
+
+**Tasin Haiyan**
+Senior Software Engineer, Greentech Apps Ltd.
+📧 [tasinhaiwan40@gmail.com](mailto:tasinhaiwan40@gmail.com)
+
+---
+
+⭐ *Check out my repositories and feel free to connect!*
