@@ -25,7 +25,8 @@ I build scalable, high-performance web applications and lead development workflo
 * Founded and managing DevSeller, a remote team delivering international client projects
 * Leading client communication, development, and delivery
 * 🌐 [DevSeller Portfolio](https://devseller.com) *(WordPress, Elementor, ACF)*
-* 🐞 [Bettwanzenprofi](https://bettwanzenprofi.de/) *(WordPress, WPForms, PHP, JS)*
+* 🐞[SafeHome Website](https://schaedlings-held.de/) *(WordPress, Elementor, PHP, JS)*
+* 🐞 [Bettwanzenprofi](https://bettwanzenprofi.de/) *(WordPress, Elementor, WPForms, PHP, JS)*
 * 🛒 [TileWalaBD](https://tilewalabd.com/) *(WordPress, Elementor, PHP, ACF)*
 
 ---
